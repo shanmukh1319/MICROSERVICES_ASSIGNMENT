@@ -205,28 +205,3 @@ src/
 ├── app.module.ts
 └── main.ts
 ```
-
-## Testing
-
-```bash
-# unit tests
-npm run test
-
-# e2e tests
-npm run test:e2e
-
-# test coverage
-npm run test:cov
-```
-
-## Technologies Used
-
-- **Nest.js** - Progressive Node.js framework
-- **TypeORM** - ORM for TypeScript and JavaScript
-- **PostgreSQL** - Relational database
-- **class-validator** - Validation library
-- **class-transformer** - Transformation library
-
-## License
-
-MIT

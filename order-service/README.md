@@ -273,28 +273,3 @@ src/
 └── main.ts
 ```
 
-## Testing
-
-```bash
-# unit tests
-npm run test
-
-# e2e tests
-npm run test:e2e
-
-# test coverage
-npm run test:cov
-```
-
-## Technologies Used
-
-- **Nest.js** - Progressive Node.js framework
-- **TypeORM** - ORM for TypeScript and JavaScript
-- **PostgreSQL** - Relational database
-- **Axios** - HTTP client for product-service communication
-- **class-validator** - Validation library
-- **class-transformer** - Transformation library
-
-## License
-
-MIT
